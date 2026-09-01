@@ -32,14 +32,22 @@ integration and authentication.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pPiyushK&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pPiyushK&layout=compact&theme=tokyonight" height="180"/>
+  <img
+    src="https://github-readme-stats-eight-alpha-38.vercel.app/api?username=pPiyushK&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats-eight-alpha-38.vercel.app/api/top-langs/?username=pPiyushK&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pPiyushK&theme=tokyonight"/>
+  <img
+    src="https://streak-stats.demolab.com?user=pPiyushK&theme=tokyonight"
+  />
 </p>
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/piyush-kumar-79a87429b/
