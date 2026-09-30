@@ -28,8 +28,7 @@ integration and authentication.
 
 - Data Structures & Algorithms
 - Advanced Python
-
-## 📊 GitHub Stats
+- NumPy
 
 ## 📊 GitHub Stats
 
