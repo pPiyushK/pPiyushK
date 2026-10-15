@@ -1,73 +1,24 @@
-# Hi 👋, I'm Piyush
-
-### 💻 B.Tech CSE Student | Python 
-
-I’m a Computer Science student interested in building practical
-web applications and learning software development.
-
-## 🛠️ Tech Stack
-
-- Python
-- Flask
-- HTML 
-- MySQL
-- Git & GitHub
-- C++
-
-## 🚀 Featured Projects
-
-### 🏥 Livox – AI Healthcare Management System
-AI-powered healthcare management platform built with React,
-Flask and MySQL.
-
-### 🎓 Student Management System
-A Flask-based student management application with database
-integration and authentication.
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Python
-- NumPy
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-alpha-38.vercel.app/api?username=pPiyushK&show_icons=true&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-alpha-38.vercel.app/api/top-langs/?username=pPiyushK&layout=compact&theme=tokyonight"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=pPiyushK&theme=tokyonight"
-  />
+# 💫 About Me:
+Computer Science Engineering student at Aravali College of Engineering and Management, currently in the 5th semester, with expected graduation in 2028. Familiar with Python, C++, HTML, Flask, MySQL, and MongoDB. Interested in software development, problem-solving, and building practical web applications. Currently strengthening Data Structures and Algorithms fundamentals and seeking software engineering internship and placement opportunities.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-kumar-79a87429b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarpiyush14024@gmail.com) 
 
-## 📫 Connect With Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pPiyushK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=pPiyushK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pPiyushK&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- LinkedIn: https://www.linkedin.com/in/piyush-kumar-79a87429b/
-- Email: kumarpiyush14024@gmail.com
-<!--
-**pPiyushK/pPiyushK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pPiyushK&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pPiyushK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=pPiyushK&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
